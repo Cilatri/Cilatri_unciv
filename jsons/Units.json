@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "千岩军",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "璃月",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
